@@ -1,7 +1,27 @@
 [
        {
-        "name": "还没有人来赞助捏",
-        "says": "快来赞助",
+        "name": "LL Town Server",
+        "says": "Null",
+        "thing": "200 RMB"
+       },
+              {
+        "name": "akchiji888",
+        "says": "祝 ME Frp 越来越好，越来越长久的运营下去",
+        "thing": "10 RMB"
+       },
+              {
+        "name": "该死的注册",
+        "says": "Null",
+        "thing": "5 RMB"
+       },
+              {
+        "name": "爱发电用户_9xMF",
+        "says": "希望把免费 Frp 做的长远",
+        "thing": "5 RMB"
+       },
+              {
+        "name": "赞助回填",
+        "says": "由于原面板赞助列表丢失 重新统计原有赞助",
         "thing": "快来赞助"
        }
    ]
